@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['white ball']
+
+roboflow:
+  workspace: ali-ahmed-sherif
+  project: white-balls-lnbfy
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ali-ahmed-sherif/white-balls-lnbfy/dataset/2

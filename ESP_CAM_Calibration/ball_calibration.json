@@ -1,0 +1,12 @@
+{
+    "real_ball_diameter_cm": 4.0,
+    "known_distance_cm": 18.5,
+    "known_pixel_diameter_px": 124.45,
+    "focal_length_px": 575.5812500000001,
+    "samples_used": 30,
+    "frame_width": 640,
+    "frame_height": 480,
+    "imgsz": 640,
+    "model": "best_26_s.engine",
+    "stream": "http://10.172.251.96:81/stream"
+}
